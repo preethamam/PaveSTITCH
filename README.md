@@ -1,5 +1,5 @@
 # PaveSTITCH-SynKpacK
-Stitches pavement images from the sensor fusion of accelerometers, RGB-D camera, GPS and LED. Also, synchronizes the data from these sensors. For stitching module, refer to [AutoPanoStitch](https://github.com/preethamam/AutoPanoStitch)
+Stitches pavement images from the sensor fusion of accelerometers, RGB-D camera, GPS and LED. Also, synchronizes the data from these sensors. For stitching module, refer to [AutoPanoStitch](https://github.com/preethamam/AutoPanoStitch).
 
 # Sensors required
 Single or multiple Kinects <br />
