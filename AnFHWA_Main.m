@@ -3,9 +3,8 @@
 %//%*                  Project FHWA Multi Sync Processor				   *%
 %//%*                                                                      *%
 %//%*             Name: Preetham Aghalaya Manjunatha    		           *%
-%//%*             USC ID Number: 7356627445		                           *%
-%//%*             USC Email: aghalaya@usc.edu                              *%
-%//%*             Submission Date: --/--/2012                              *%
+%//%*             Github link: https://github.com/preethamam               %*
+%//%*             Submission Date: 01/26/2022                              *%
 %//%************************************************************************%
 %//%*             Viterbi School of Engineering,                           *%
 %//%*             Sonny Astani Dept. of Civil Engineering,                 *%
