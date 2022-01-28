@@ -8,7 +8,7 @@ PaveSTITCH (known as SynKpacK) Stitches pavement images from the sensor fusion o
 
 | Network diagram of data acquisition panel |
 | -------------- |
-| ![DAQ Model-Revised](https://user-images.githubusercontent.com/28588878/151495002-f6f2518a-e84c-4cd1-8aab-230eb2e8aede.png) |
+| ![DAQ Model-Revised](https://user-images.githubusercontent.com/28588878/151519521-bc948b85-f4c2-41fe-94dc-7da0064c8456.png) |
 
 
 # Sensors required
