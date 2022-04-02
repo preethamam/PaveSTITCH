@@ -23,4 +23,4 @@ MATLAB - Image Processing Toolbox <br />
 MATLAB - Signal Processing Toolbox <br />
 
 # Note
-Some of the implementation is pending due to the lack of funding 2014.
+Some of the implementation is pending due to the lack of funding in 2014.
