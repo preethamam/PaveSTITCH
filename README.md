@@ -19,8 +19,8 @@ LED <br />
 
 # Requirements
 MATLAB <br />
-MATLAB - Image Processing Toolbox <br />
-MATLAB - Signal Processing Toolbox <br />
+Image Processing Toolbox <br />
+Signal Processing Toolbox
 
 # Note
 Some of the implementation is pending due to the lack of funding in 2014.
